@@ -1,4 +1,4 @@
-# 3004\
+# 3004\ coded in C++ and uses user interface configuration file for definitions of Qt widgets with slots and signals
 
 The files in this folder 3004 represent my knowledge of diffrent user cases in programs such as an elevator. An elevator has many diffrent stake holders
 and those stake holders have many diffrent functionalities, the pdf file describes all of these funtions using uml diagrams, stake holder diagrams and diffrent use cases
